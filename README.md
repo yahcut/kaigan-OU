@@ -1,4 +1,4 @@
 # kaigan-OU
 
-This is repo for kaiganken
+This is repo for kaiganken OKAZAKI
 :=test edis
